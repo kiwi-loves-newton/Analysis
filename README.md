@@ -1,1 +1,1 @@
-My studies in mathematical analysis-- notes, expository articles, and comments on various books.
+I am currently studying Fourier Analysis, so most of the content uploaded here for the remainder of this year will mostly discuss harmonic analysis. 
